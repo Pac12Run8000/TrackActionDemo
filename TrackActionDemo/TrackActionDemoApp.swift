@@ -11,7 +11,7 @@ import SwiftUI
 struct TrackActionDemoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LoginPageView()
         }
     }
 }
