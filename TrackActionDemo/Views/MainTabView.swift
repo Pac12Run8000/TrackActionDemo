@@ -10,7 +10,7 @@ struct MainTabView: View {
                     Text("Home")
                 }
             
-            Text("Shopping Cart")
+            ShoppingCartView()
                 .tabItem {
                     Image(systemName: "cart.fill")
                     Text("Shopping Cart")
@@ -22,6 +22,12 @@ struct MainTabView: View {
                     Text("Latest News")
                 }
         }
+    }
+}
+
+struct MainTabView_Previews: PreviewProvider {
+    static var previews: some View {
+        MainTabView()
     }
 }
 

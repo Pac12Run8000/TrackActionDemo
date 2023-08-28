@@ -14,6 +14,7 @@
 		09756FC32A9CDA1A00B54581 /* LoginPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09756FC22A9CDA1A00B54581 /* LoginPageView.swift */; };
 		09756FC72A9CDC3800B54581 /* LoginManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09756FC62A9CDC3800B54581 /* LoginManager.swift */; };
 		09756FC92A9CEA6D00B54581 /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09756FC82A9CEA6D00B54581 /* MainTabView.swift */; };
+		09756FCB2A9CF35500B54581 /* ShoppingCartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09756FCA2A9CF35500B54581 /* ShoppingCartView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		09756FC22A9CDA1A00B54581 /* LoginPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginPageView.swift; sourceTree = "<group>"; };
 		09756FC62A9CDC3800B54581 /* LoginManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginManager.swift; sourceTree = "<group>"; };
 		09756FC82A9CEA6D00B54581 /* MainTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabView.swift; sourceTree = "<group>"; };
+		09756FCA2A9CF35500B54581 /* ShoppingCartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingCartView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				09756FC22A9CDA1A00B54581 /* LoginPageView.swift */,
 				09756FB62A9CD77E00B54581 /* ContentView.swift */,
 				09756FC82A9CEA6D00B54581 /* MainTabView.swift */,
+				09756FCA2A9CF35500B54581 /* ShoppingCartView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 				09756FC72A9CDC3800B54581 /* LoginManager.swift in Sources */,
 				09756FB52A9CD77E00B54581 /* TrackActionDemoApp.swift in Sources */,
 				09756FC32A9CDA1A00B54581 /* LoginPageView.swift in Sources */,
+				09756FCB2A9CF35500B54581 /* ShoppingCartView.swift in Sources */,
 				09756FC92A9CEA6D00B54581 /* MainTabView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
